@@ -1,4 +1,4 @@
-# SteamGames Sentiment Analysis
+# Steam Games Sentiment Analysis
 
 This project aims to scrape video game data from Steam, apply sentiment analysis to the reviews to gauge the general sentiment (positive or negative), and visualize the data for better understanding. 
 
