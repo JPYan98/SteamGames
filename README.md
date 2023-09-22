@@ -1,6 +1,8 @@
 # SteamGames Sentiment Analysis
 
-This project aims to scrape video game data from Steam, apply sentiment analysis to the reviews to gauge the general sentiment (positive or negative), and visualize the data for better understanding. The game analyzed is Plant vs. Zombies, but it can be changed to any other game easily. This repository contains the source code, datasets, and visualization outputs of this project.
+This project aims to scrape video game data from Steam, apply sentiment analysis to the reviews to gauge the general sentiment (positive or negative), and visualize the data for better understanding. 
+
+The game analyzed is Plant vs. Zombies, but it can be changed to any other game easily. This repository contains the source code, datasets, and visualization outputs of this project.
 
 ## Objectives:
 
