@@ -1,2 +1,2 @@
 # SteamGames
-An analysis on Plant VS Zombies, and other popular games on Steam
+A sentiment analysis of Plant vs. Zombies and other popular games on Steam
